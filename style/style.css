@@ -1,0 +1,17 @@
+.carousel-inner {
+    max-height: 29rem;
+}
+footer {
+    background-color: rgb(50, 50, 169);
+    min-height: 100px;
+
+}
+footer p {
+    color: white;
+    text-align: center;
+}
+#iconos i {
+    font-size: 26px;
+    padding: 0 8px;
+    color: white; 
+}
